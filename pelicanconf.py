@@ -8,7 +8,6 @@ SITEURL = ''
 
 PATH = 'content'
 
-THEME = '/home/sam/pelican-themes/lazystrap'
 
 TIMEZONE = 'Europe/London'
 
@@ -35,3 +34,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+THEME = "/home/sam/pelican-themes/monospace"
