@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+THEME = "/home/sam/pelican-themes/monospace"
+
+
 AUTHOR = 'Sam Comber'
 SITENAME = 'Sam Comber'
 SITEURL = ''
@@ -35,4 +38,3 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = "/home/sam/pelican-themes/monospace"
