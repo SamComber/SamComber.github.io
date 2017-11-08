@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-THEME = "/home/sam/pelican-themes/monospace"
+THEME = "monospace"
 
 
 AUTHOR = 'Sam Comber'
