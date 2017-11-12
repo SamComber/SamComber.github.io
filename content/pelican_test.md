@@ -1,4 +1,4 @@
-Title: My Second Post
+Title: Data Wrangling
 Date: 2017-11-12
 Category: Data Science
 
